@@ -5,36 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98deb804-7916-43c7-a696-7809d9218141" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CanDrink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CanDrink2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Feever.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicalOperators2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Split.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TASK01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariablesRevisited.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingWithChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingWithFloats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingWithForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingWithForLoop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/diceRoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ifBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/RomanNumeral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -134,6 +109,10 @@
       <workItem from="1685357850150" duration="5274000" />
       <workItem from="1685448209909" duration="5616000" />
       <workItem from="1685515831781" duration="11589000" />
+      <workItem from="1686325225673" duration="12330000" />
+      <workItem from="1686804942228" duration="2848000" />
+      <workItem from="1686922350723" duration="1804000" />
+      <workItem from="1686983343479" duration="19000" />
     </task>
     <servers />
   </component>
